@@ -8,4 +8,9 @@ public class SpigotBootstrap extends JavaPlugin {
     public void onEnable() {
         new APIService();
     }
+
+    @Override
+    public void onDisable() {
+
+    }
 }
