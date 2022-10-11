@@ -12,3 +12,15 @@
         sqlHandler.connect();
     }
 ```
+
+2. Create a table
+
+```java
+    private SQLHandler sqlHandler;
+
+    public void main(String[] args) {
+        //connection to the sql-server
+        sqlHandler.createTable("tablename", Arrays.asList(new String[] {"tableNames","tableNames","tableNames","tableNames","tableNames"}), 
+                Arrays.asList(new String[] {"dataType","dataType","dataType"}));
+    }
+```
