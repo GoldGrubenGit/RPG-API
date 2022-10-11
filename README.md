@@ -2,7 +2,7 @@
 
 ### SQL-Handler
 
-1. 
+1. Create a connection to the SQL-Server
 
 ```java
   private SQLHandler sqlHandler;
