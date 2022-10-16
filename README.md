@@ -7,6 +7,7 @@
         <id>jitpack.io</id>
         <url>https://jitpack.io</url>
     </repository>
+
     <dependency>
         <groupId>com.github.GoldGrubenGit</groupId>
         <artifactId>RPG-API</artifactId>
