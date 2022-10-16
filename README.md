@@ -1,5 +1,19 @@
 ## How to use the RPG-API
 
+### First of all you need our repository and dependency:
+
+```xml
+    <repository>
+        <id>jitpack.io</id>
+        <url>https://jitpack.io</url>
+    </repository>
+    <dependency>
+        <groupId>com.github.GoldGrubenGit</groupId>
+        <artifactId>RPG-API</artifactId>
+        <version>RELEASE-Version</version>
+    </dependency>
+```
+
 ### SQL-Handler
 
 1. Create a connection to the SQL-Server
