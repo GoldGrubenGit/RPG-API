@@ -10,7 +10,7 @@
 
     <dependency>
         <groupId>com.github.GoldGrubenGit</groupId>
-        <artifactId>RPG-API</artifactId>
+        <artifactId>SQL-API</artifactId>
         <version>RELEASE-Version</version>
     </dependency>
 ```
